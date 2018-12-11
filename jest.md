@@ -9,7 +9,7 @@ Jest has included:
 * stubs
 * code coverage
 
-Jest is often used to test React componets with [Enzyme](https://github.com/airbnb/enzyme)
+Jest is often used to test React components with [Enzyme](https://github.com/airbnb/enzyme)
 
 **References**
 * [Jest tutorial](https://flaviocopes.com/jest/)
